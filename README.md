@@ -36,12 +36,11 @@
   
   <br/><br/><br/>
 </div>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Cloweded.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Cloweded.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Cloweded.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+![Register](https://github.com/Cloweded/Final_Projesi/assets/138334472/1ed41dfb-68cb-4dd8-9413-b6d37ed429b4)
+![Profile](https://github.com/Cloweded/Final_Projesi/assets/138334472/d6929cfd-5064-4d95-8285-b77165377aa9)
+![Messages2](https://github.com/Cloweded/Final_Projesi/assets/138334472/b844c69a-50f5-4275-a249-3b3398c98da7)
+![Messages](https://github.com/Cloweded/Final_Projesi/assets/138334472/96a1eec1-dec6-4948-8658-d31e678d1f31)
+![Login](https://github.com/Cloweded/Final_Projesi/assets/138334472/48d387fe-49f8-4318-a65b-62644782cdf1)
+![Home Page](https://github.com/Cloweded/Final_Projesi/assets/138334472/441cbcab-096f-4aa7-8902-d011e9329787)
+![CommunicationPage](https://github.com/Cloweded/Final_Projesi/assets/138334472/378b315f-9e23-4ccf-bd44-3f04d6796728)
 
