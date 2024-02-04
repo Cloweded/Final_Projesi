@@ -36,12 +36,13 @@
   
   <br/><br/><br/>
 </div>
-![CommunicationPage](https://github.com/Cloweded/Final_Projesi/assets/138334472/2cffd15e-d2ef-408f-abdc-bf2b137aa2b7)
-![Home Page](https://github.com/Cloweded/Final_Projesi/assets/138334472/4e8dd0d7-811a-43d0-97c1-aa7a68c92b3b)
-![Login](https://github.com/Cloweded/Final_Projesi/assets/138334472/c5b20c72-50c4-42c3-b339-639aec881579)
-![Messages](https://github.com/Cloweded/Final_Projesi/assets/138334472/a9e1c125-3cc3-45df-b144-c5f8efb6535a)
-![Messages2](https://github.com/Cloweded/Final_Projesi/assets/138334472/9f980695-3165-4b7f-9ffb-caecb11491d5)
-![Profile](https://github.com/Cloweded/Final_Projesi/assets/138334472/47c67048-1072-4f7b-83d1-d643cd1635b6)
-![Register](https://github.com/Cloweded/Final_Projesi/assets/138334472/81b269cc-2e97-457d-a300-caf06a96a16a)
 
+
+![CommunicationPage](https://github.com/Cloweded/Final_Projesi/assets/138334472/485af5fe-8ab3-4a29-8032-30803f61c6ad)
+![Register](https://github.com/Cloweded/Final_Projesi/assets/138334472/579c91a1-cd61-41ab-9273-97ce6c524ed9)
+![Profile](https://github.com/Cloweded/Final_Projesi/assets/138334472/49ee63aa-e2c9-4ff1-a8da-2a3abd7b0d86)
+![Messages2](https://github.com/Cloweded/Final_Projesi/assets/138334472/c919244b-c588-482e-9de6-82f66676b7cb)
+![Messages](https://github.com/Cloweded/Final_Projesi/assets/138334472/83e57240-5417-4b2b-bf18-7cc2c6aa8f61)
+![Login](https://github.com/Cloweded/Final_Projesi/assets/138334472/e7c688ed-5b90-4515-a936-869f7a60dd36)
+![Home Page](https://github.com/Cloweded/Final_Projesi/assets/138334472/95b87bec-f1f7-4dd0-9fb2-5989a942b257)
 
