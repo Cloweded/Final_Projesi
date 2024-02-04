@@ -10,7 +10,7 @@
 , projemizin içerisinde login, kayıt, home, profil , message ve communication sayfaları mevcut , sayfanmın ekran görüntüleri aşağıda mevcuttur..</h2>
 <br>
 <br>
-<h1>Supervısor: [Keyvan Arasteh](https://github.com/keyvanarasteh)</h1>
+<h1>Supervısor: Keyvan Arasteh </h1>
 <br>
 <h1>No: 211216096</h1>
 <h1>Ders: Mobil Programlama</h1>
