@@ -6,6 +6,9 @@
 
 <h3 align="center">A passionate software developer from Turkey </h3>
 
+<h2>Merhabalar , bu projemizde yer alan arkadaşlarımız Bahrican Arayıcı , Orçun Demircan ve ben Ömer Yiğit Kasap.<br>Bu Proje içerisinde twitter clon yapmak istedik fakat eski twitter'ı temel aldık
+, projemizin içerisinde login, kayıt, home, profil , message ve communication sayfaları mevcut , sayfanmın ekran görüntüleri aşağıda mevcuttur..</h2>
+
 <br/>
 
 <div align="center">
@@ -34,7 +37,8 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
+  <br/>
 </div>
 
 
